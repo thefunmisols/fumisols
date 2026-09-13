@@ -1,6 +1,6 @@
 👋 **Hello, I’m Funmi!**
 
-Welcome to my GitHub! I'm a Business Intelligence and Data Analyst with over 3 years of experience, an AI Engineer with about a year of experience, showcasing proficiency in Power BI, Python and Microsoft Excel, complemented by intermediate skills in SQL, and a solid foundation in statistical analysis. I have worked with tools like n8n, Claude, Open AI API, Relevance AI to build AI agents that help businesses achieve faster results. 
+Welcome to my GitHub! I'm a Business Intelligence and Data Analyst with over 4 years of experience, an AI Engineer with about a year of experience, showcasing proficiency in Power BI, Python and Microsoft Excel, complemented by intermediate skills in SQL, and a solid foundation in statistical analysis. I have worked with tools like n8n, Claude, Open AI API, Relevance AI to build AI agents that help businesses achieve faster results. 
 
 I am also proficient in data analysis using tools such as Microsoft Excel, Python and Power BI, with a focus on dashboard creation, product analysis, user analysis, churn analysis, and machine learning, contributing to an increase in actionable insights. 
 
